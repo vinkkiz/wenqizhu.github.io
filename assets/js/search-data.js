@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -404,8 +397,8 @@ ninja.data = [{
           section: "News",},{id: "news-thrilled-to-have-presented-my-first-full-paper-challenges-and-opportunities-for-the-design-of-inclusive-social-media-experiences-with-lgbt-older-adults-at-chi-2025-in-yokohama-japan",
           title: 'Thrilled to have presented my first full paper, Challenges and Opportunities for the...',
           description: "",
-          section: "News",},{id: "news-i-startedgi-my-research-assistant-job-at-king-s-college-london-with-dr-ulrike-hammerbeck-and-dr-timothy-neate-to-investigate-pose-estimation-models-for-arm-kinematics-in-stroke-survivors-and-co-design-an-innovative-smartphone-app-with-stroke-survivors-and-clinicians-for-motor-rehabilitation",
-          title: 'I startedgi my Research Assistant job at King’s College London, with Dr Ulrike...',
+          section: "News",},{id: "news-i-started-my-research-assistant-job-at-king-s-college-london-with-dr-ulrike-hammerbeck-and-dr-timothy-neate-to-investigate-pose-estimation-models-for-arm-kinematics-in-stroke-survivors-and-co-design-an-innovative-smartphone-app-with-stroke-survivors-and-clinicians-for-motor-rehabilitation",
+          title: 'I started my Research Assistant job at King’s College London, with Dr Ulrike...',
           description: "",
           section: "News",},{id: "news-i-am-starting-my-phd-in-human-computer-interaction-and-accessibility-supervised-by-dr-timothy-neate-at-epsrc-drive-health-cdt-at-king-s-college-london",
           title: 'I am starting my PhD in Human-Computer Interaction and Accessibility supervised by Dr...',
